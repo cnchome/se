@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Portfolio Page were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = http://dynamicxx.com/se
+Data file = /customers/a/9/0/dynamicxx.com/httpd.www/se/wp-content/uploads/2020/09/demo-content-import-file_2020-09-17__09-13-25.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/after_import---
+
